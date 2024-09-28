@@ -5,5 +5,10 @@ Affichez dans la console :
 */
 
 // Votre prénom (chaîne)
+const firstName="Amandine";
+console.log(firstName);
 
 // Votre âge (nombre)
+
+const age = 20 ;
+console.log(age);

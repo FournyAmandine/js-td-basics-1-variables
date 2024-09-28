@@ -1,20 +1,21 @@
 // Calculatrice
 /*
 Affichez dans la console les opérations de base avec les nombres 6 et 3 :
-- leur somme
-- leur différence
-- leur multiplication
-- leur division
-- leur modulo
+- leur somme 9
+- leur différence 3
+- leur multiplication 18
+- leur division 2
+- leur modulo 0
 Avant d'exécuter le code, devinez à chaque fois le résultat de l'opération
 */
 
 // Somme
-
+console.log(6+3);
 // Différence
-
+console.log(6-3);
 // Multiplication
-
+console.log(6*3);
 // Division
-
+console.log(6/3);
 // Modulo
+console.log(6%3);
