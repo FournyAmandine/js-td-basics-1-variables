@@ -13,7 +13,7 @@ let yearMark;
 // 2. Affectez à yearJohn sa date de naissance (en la calculant à partir de l'année courante et de son âge). Faites de même pour yearMark. Ensuite, affichez la date de naissance de John et "Mark est né en …".
 yearJohn = (now - ageJohn);
 yearMark = (now - ageMark);
-console.log(`John est né en ${yearJohn}`);
+console.log(yearJohn);
 console.log(`Mark est né en ${yearMark}`);
 // 3. Affichez l'année à laquelle nous serons dans deux ans, le double de l'année et le dixième de l'année.
 console.log(now+2);

@@ -9,8 +9,8 @@ console.log(firstName);
 const lastName="Smith";
 const age = 28;
 // 3. Initialisez une variable fullAge à true et affichez-la.
-const fullAge= true
-console.log(fullAge)
+const fullAge= true;
+console.log(fullAge);
 // 4. Déclarez une variable job et affichez sa valeur dans la console.
 let job;
 console.log(job);
